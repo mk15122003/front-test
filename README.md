@@ -53,6 +53,3 @@ After `npm run build`, publish the `dist` folder to [Vercel](https://vercel.com)
 | Edge cases | Delete subtree + scrub `childId` / `linkTargetId` refs |
 | Performance | Single record updates, memoized analysis & layout |
 
----
-
-MIT licensed — use freely for your assessment submission.
